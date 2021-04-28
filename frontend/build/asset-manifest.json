@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TodoMERNapp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/TodoMERNapp/static/js/main.a905cf41.chunk.js",
+    "main.js.map": "/TodoMERNapp/static/js/main.a905cf41.chunk.js.map",
+    "runtime-main.js": "/TodoMERNapp/static/js/runtime-main.0ac91fb9.js",
+    "runtime-main.js.map": "/TodoMERNapp/static/js/runtime-main.0ac91fb9.js.map",
+    "static/js/2.7d44fb14.chunk.js": "/TodoMERNapp/static/js/2.7d44fb14.chunk.js",
+    "static/js/2.7d44fb14.chunk.js.map": "/TodoMERNapp/static/js/2.7d44fb14.chunk.js.map",
+    "static/js/3.f0e7121c.chunk.js": "/TodoMERNapp/static/js/3.f0e7121c.chunk.js",
+    "static/js/3.f0e7121c.chunk.js.map": "/TodoMERNapp/static/js/3.f0e7121c.chunk.js.map",
+    "index.html": "/TodoMERNapp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/TodoMERNapp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7d44fb14.chunk.js.LICENSE.txt": "/TodoMERNapp/static/js/2.7d44fb14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ac91fb9.js",
+    "static/js/2.7d44fb14.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.a905cf41.chunk.js"
+  ]
+}
